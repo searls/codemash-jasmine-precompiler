@@ -1,0 +1,11 @@
+<h1>Fibonacci Calculator</h1>
+
+<form>
+  <label for="index">Index</label>
+  <input id="index" name="index" type="text" value="" size="3" />
+  <button class="calculate">Calculate</button>
+</form>
+
+<div>
+  Result: <span class="result"/>
+</div>
